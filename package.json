@@ -1,7 +1,7 @@
 {
-  "name": "playground",
+  "name": "frontend-biolerplate",
   "version": "1.0.0",
-  "description": "Playground site - PSD to HTML",
+  "description": "A Front-end Boilerplate with Gulp 4",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
