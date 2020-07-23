@@ -1,4 +1,4 @@
-How to start the project:
+<h1>How to start the project:</h1>
 
 - Install [Node.js] (https://nodejs.org/en/)
 - Run `npm install`
@@ -12,4 +12,6 @@ In this proejct, Gulp is configured to run the following functions:
 * Uglify the JS files
 * Move final CSS and JS files to the `/dist` folder
 
-by <a href="https://www.linkedin.com/in/daniele-carta-lugano/?locale=it_IT">Daniele Carta</a>
+<hr />
+
+<a href="https://www.linkedin.com/in/daniele-carta-lugano/">Follow me in LinkedIn</a>
