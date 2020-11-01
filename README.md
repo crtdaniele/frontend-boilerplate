@@ -1,17 +1,19 @@
-<h1>How to start the project:</h1>
+<h1>A boilerplate for Frontend</h1>
 
-- Install [Node.js] (https://nodejs.org/en/)
-- Run `npm install`
-- Run `gulp watch`
+<h3>Project</h3>
 
-In this proejct, Gulp is configured to run the following functions:
+```
+gulp watch
+```
 
-* Compile the SCSS files to CSS
-* Autoprefix and minify the CSS file
-* Concatenate the JS files
-* Uglify the JS files
-* Move final CSS and JS files to the `/dist` folder
+<h3>Skills</h3>
+
+- Gulp 4
 
 <hr />
 
-<a href="https://www.linkedin.com/in/daniele-carta-lugano/">Follow me in LinkedIn</a>
+- <a target="_blank" href="https://danielecarta.dev/">danielecarta.dev</a>
+- <a target="_blank" href="https://www.linkedin.com/in/daniele-carta-lugano/">Follow me in LinkedIn</a>
+- <a target="_blank" href="https://www.linkedin.com/groups/8959815/">@JavaScript Developers Italiani</a>
+
+<img src="https://danielecarta.dev/img/contact.png" alt="Contact Daniele Carta">
